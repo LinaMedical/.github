@@ -1,1 +1,1 @@
-# .github
+# LiNA Medical
